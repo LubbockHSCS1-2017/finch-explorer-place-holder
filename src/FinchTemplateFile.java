@@ -18,6 +18,8 @@ public class FinchTemplateFile
       // Write some code here!
 
       // Always end your program with finch.quit()
+      myFinch.saySomething("I'm Sorry Dave, I'm afraid I can't do that");
+      
       myFinch.quit();
       System.exit(0);
       }
